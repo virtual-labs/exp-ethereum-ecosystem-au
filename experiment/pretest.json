@@ -2,37 +2,39 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "What is a digital wallet?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "A physical wallet that stores digital currency",
+        "b": "A software program that allows users to store and manage cryptocurrency",
+        "c": "A website where users can buy and sell cryptocurrency",
+        "d": "A type of bank account that only holds cryptocurrency"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is MetaMask and what is it used for?",
+      "answers": {
+        "a": "A software wallet for storing and managing Ethereum",
+        "b": "A cryptocurrency exchange for trading cryptocurrencies",
+        "c": "A blockchain network for developing decentralized applicationsnswer3",
+        "d": "A type of hardware wallet for storing cryptocurrency"
       },
+      
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "How do I keep my MetaMask account safe?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "You can use a strong password and two-factor authentication (2FA).",
+        "b": "You can store your private keys offline",
+        "c": "You can avoid clicking on links from unknown sources.",
+        "d": "You can do all of the above."
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
+      
+      "correctAnswer": "d",
       "difficulty": "beginner"
     }
   ]
