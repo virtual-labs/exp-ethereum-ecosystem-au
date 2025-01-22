@@ -1,4 +1,4 @@
-<u><h3>Thoery</h3></u>
+<u><h3>Theory</h3></u>
 
 <h4>Ethereum Wallets</h4>
 <p>Ethereum wallets are software programs or hardware devices that allow you to store, send, and receive Ethereum (ETH) and other ERC-20 tokens. Wallets are essential for interacting with the Ethereum blockchain and using decentralized applications (DApps).
