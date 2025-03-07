@@ -4,36 +4,66 @@
     {
       "question": "What is the difference between a hot wallet and a cold wallet?",
       "answers": {
-        "a": " A hot wallet is connected to the internet, while a cold wallet is not.",
+        "a": "A hot wallet is connected to the internet, while a cold wallet is not.",
         "b": "A hot wallet is a software program, while a cold wallet is a hardware device.",
         "c": "A hot wallet is more secure than a cold wallet.",
         "d": "A cold wallet is more expensive than a hot wallet."
       },
-      
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
       "question": "What is a gas fee and why do I have to pay one?",
       "answers": {
-        "a": " A gas fee is a transaction fee that users must pay to process transactions on the Ethereum blockchain.",
+        "a": "A gas fee is a transaction fee that users must pay to process transactions on the Ethereum blockchain.",
         "b": "A gas fee is a reward that miners receive for processing transactions.",
         "c": "A gas fee is a tax that the government charges on cryptocurrency transactions.",
         "d": "A gas fee is a fee that users must pay to access the MetaMask wallet."
       },
-      
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
       "question": "What are some of the benefits of using MetaMask?",
       "answers": {
-        "a": " It is a secure and easy-to-use wallet for storing and managing Ethereum and other ERC-20 tokens",
+        "a": "It is a secure and easy-to-use wallet for storing and managing Ethereum and other ERC-20 tokens.",
         "b": "It allows you to connect to decentralized applications (DApps) and interact with them directly from your browser.",
-        "c": " It is a non-custodial wallet, which means that you have full control over your private keys and funds.",
-        "d": " It is a free and open-source software, which means that anyone can contribute to its development."
+        "c": "It is a non-custodial wallet, which means that you have full control over your private keys and funds.",
+        "d": "It is a free and open-source software, which means that anyone can contribute to its development."
       },
-      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What happens if you lose access to your MetaMask wallet without a backup?",
+      "answers": {
+        "a": "You can reset your wallet by contacting MetaMask support.",
+        "b": "Your funds are lost permanently if you don’t have the seed phrase.",
+        "c": "You can recover your wallet by logging in with your email address.",
+        "d": "You can retrieve your funds using a different device."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the purpose of a seed phrase in a crypto wallet?",
+      "answers": {
+        "a": "It is used to encrypt wallet transactions for security.",
+        "b": "It serves as a backup to recover your wallet if you lose access.",
+        "c": "It is required to send crypto transactions.",
+        "d": "It is a passcode for accessing DApps."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "How can you ensure the security of your MetaMask wallet?",
+      "answers": {
+        "a": "Never share your seed phrase with anyone.",
+        "b": "Enable two-factor authentication (2FA) on MetaMask.",
+        "c": "Use a strong password and keep your device secure.",
+        "d": "All of the above."
+      },
       "correctAnswer": "d",
       "difficulty": "beginner"
     }

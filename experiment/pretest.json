@@ -9,7 +9,6 @@
         "c": "A website where users can buy and sell cryptocurrency",
         "d": "A type of bank account that only holds cryptocurrency"
       },
-      
       "correctAnswer": "b",
       "difficulty": "beginner"
     },
@@ -18,10 +17,9 @@
       "answers": {
         "a": "A software wallet for storing and managing Ethereum",
         "b": "A cryptocurrency exchange for trading cryptocurrencies",
-        "c": "A blockchain network for developing decentralized applicationsnswer3",
+        "c": "A blockchain network for developing decentralized applications",
         "d": "A type of hardware wallet for storing cryptocurrency"
       },
-      
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
@@ -33,8 +31,40 @@
         "c": "You can avoid clicking on links from unknown sources.",
         "d": "You can do all of the above."
       },
-      
       "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the purpose of a seed phrase in MetaMask?",
+      "answers": {
+        "a": "It is used to recover your wallet if you lose access.",
+        "b": "It is a special passcode to log in to MetaMask.",
+        "c": "It is required to send cryptocurrency transactions.",
+        "d": "It is used to track all blockchain transactions."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the main function of a cryptocurrency wallet?",
+      "answers": {
+        "a": "To store physical money",
+        "b": "To facilitate secure storage and transactions of cryptocurrencies",
+        "c": "To mine new cryptocurrencies",
+        "d": "To act as a cryptocurrency exchange"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following is a key feature of MetaMask?",
+      "answers": {
+        "a": "It allows users to connect with decentralized applications (DApps).",
+        "b": "It acts as a traditional bank for cryptocurrency storage.",
+        "c": "It eliminates the need for a private key.",
+        "d": "It can be used only on mobile devices."
+      },
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]
