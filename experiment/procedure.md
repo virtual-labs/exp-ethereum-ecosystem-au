@@ -3,7 +3,7 @@
 sequence </p>
 
 
-<h6>create a new MetaMask wallet</h6>
+<h6>Create a new MetaMask wallet</h6>
 <p>On the welcome page, click the "Create Wallet" button to create an account in MetaMask.</p>
 <div><img src="images/step1.png" alt=""></div>
 <h6><p>Create a strong password to secure your MetaMask wallet.</p>
