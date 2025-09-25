@@ -1,4 +1,4 @@
-<u><h3>Thoery</h3></u>
+
 <p>A <strong>digital wallet</strong> is a software-based system that allows users to <em>store, send, and receive digital assets</em>, such as cryptocurrencies and digital payments, securely. It eliminates the need for <strong>physical cash or cards</strong> by enabling transactions through electronic means. Digital wallets are commonly used for online shopping, cryptocurrency transac
 
 <h6>Understanding Transactions in MetaMask</h6>

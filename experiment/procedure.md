@@ -1,4 +1,4 @@
-<u><h3>Procedure</h3></u>
+
 <p>In this simulation you'll actively learn and  explore digital wallets like metamask and how transactions happens in metamask 
 sequence </p>
 
