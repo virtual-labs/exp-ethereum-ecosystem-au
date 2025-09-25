@@ -1,9 +1,6 @@
 
-<u><h3>Aim of the experiment</h3></u>
-
-
-<ul>
-    <li> To learn the basics of Ethereum and digital wallets</li>
-    <li>Learn how to create a Metamask wallet account </li>
-    <li>Gain a comprehensive understanding of transaction processes in MetaMask.</li>
- </ul>
+<p>
+The aim of this experiment is to gain hands-on experience with the 
+<strong>Ethereum ecosystem</strong> by testing digital wallets such as MetaMask 
+and performing a <em>test transaction</em> on the Ethereum test network.
+</p>
