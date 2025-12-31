@@ -1,1 +1,1 @@
-## Ethereum Wallet Interaction Using MetaMask
+## Transaction on an Ethereum wallet using MetaMask
