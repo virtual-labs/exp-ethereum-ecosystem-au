@@ -1,0 +1,71 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "What is a digital wallet?",
+      "answers": {
+        "a": "A physical wallet that stores digital currency",
+        "b": "A software program that allows users to store, send, and receive cryptocurrency",
+        "c": "A website where users can buy and sell cryptocurrency",
+        "d": "A type of bank account that only holds cryptocurrency"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is MetaMask and what is it used for?",
+      "answers": {
+        "a": "A software wallet for storing and managing Ethereum and other tokens",
+        "b": "A cryptocurrency exchange for trading cryptocurrencies",
+        "c": "A blockchain network for developing decentralized applications",
+        "d": "A type of hardware wallet for storing cryptocurrency"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "How can you keep your MetaMask account safe?",
+      "answers": {
+        "a": "By using a strong password",
+        "b": "By keeping your seed phrase/private keys secure and offline",
+        "c": "By avoiding links from unknown or suspicious sources",
+        "d": "All of the above"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the purpose of a seed phrase in MetaMask?",
+      "answers": {
+        "a": "It is used to recover your wallet if you lose access",
+        "b": "It is a special passcode to log in to MetaMask",
+        "c": "It is required to send cryptocurrency transactions",
+        "d": "It is used to track all blockchain transactions"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the main function of a cryptocurrency wallet?",
+      "answers": {
+        "a": "To store physical money",
+        "b": "To securely store and manage cryptocurrency transactions",
+        "c": "To mine new cryptocurrencies",
+        "d": "To act as a cryptocurrency exchange"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following is a key feature of MetaMask?",
+      "answers": {
+        "a": "It allows users to connect with decentralized applications (DApps)",
+        "b": "It acts as a traditional bank for cryptocurrency storage",
+        "c": "It eliminates the need for a private key",
+        "d": "It can only be used on mobile devices"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+  ]
+}
